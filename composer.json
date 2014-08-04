@@ -1,0 +1,13 @@
+{
+    "name": "Rowland/geekoverload",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Rowland Mtetezi",
+            "email": "rowlandmtetezi@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}

@@ -1,0 +1,11 @@
+
+
+#respond .social_buttons > span {
+    background: url(images/login-icons.png) no-repeat;
+    padding-left: 26px;
+}
+#respond .sb_guest > span { background-position: 5px -45px }
+#respond .sb_wordpress > span { background-position: 5px -146px }
+#respond .sb_facebook > span { background-position: 7px 4px }
+#respond .sb_twitter > span { background-position: 7px -95px }
+
